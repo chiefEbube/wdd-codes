@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+}
+
+img{
+    width: 150px;
+    height: 150px
+}
+
+.brown{
+  background-color: brown;
+  border: #1ba100 5px solid; 
+  color: white;
+  padding: 2em;
+  margin: 3em;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 1em;
+}
